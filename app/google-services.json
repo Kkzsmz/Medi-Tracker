@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660391370512",
+    "project_id": "meditt-e236c",
+    "storage_bucket": "meditt-e236c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660391370512:android:fb6301dbbf562246c38f95",
+        "android_client_info": {
+          "package_name": "com.example.meditt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660391370512-g4tmr1jdlf866gi8a0r8jmvl975ticsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYKm7Ajo058TJResLl4frj_0bPfji3Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660391370512-g4tmr1jdlf866gi8a0r8jmvl975ticsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
